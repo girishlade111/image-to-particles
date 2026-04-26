@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from "react"
 import { ImageUploader } from "@/components/image-uploader"
 import { EffectControls } from "@/components/effect-controls"
 import { ImageCanvas } from "@/components/image-canvas"
+import { Footer } from "@/components/footer"
 import { Button } from "@/components/ui/button"
 import { Download } from "lucide-react"
 
@@ -125,6 +126,7 @@ export default function Home() {
           )}
         </div>
       </div>
+      <Footer />
     </main>
   )
 }
