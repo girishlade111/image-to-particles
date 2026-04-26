@@ -12,7 +12,8 @@ export const metadata: Metadata = {
   description: "Apply halftone and scan line effects to your images",
   generator: "v0.app",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
   },
 }
 
