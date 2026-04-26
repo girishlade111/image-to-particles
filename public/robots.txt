@@ -1,0 +1,35 @@
+# Robots.txt for Retro Shader Studio
+# https://vercel.com/pijako9357-1154s-projects/v0-image-to-particles
+
+User-agent: *
+Allow: /
+
+# Allow all crawlers
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://vercel.com/pijako9357-1154s-projects/v0-image-to-particles/sitemap.xml
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Video
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
