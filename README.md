@@ -221,3 +221,5 @@ MIT License — Feel free to use this project for personal or commercial purpose
 Default sample image: GitHub avatar (loaded from external URL)
 
 Built with [v0](https://v0.app) and deployed on [Vercel](https://vercel.com)
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
